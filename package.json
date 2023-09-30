@@ -48,7 +48,7 @@
     "sw-precache-webpack-plugin": "1.0.0",
     "tar": "^6.1.11",
     "url-loader": "^4.1.1",
-    "webpack": "5.74.0",
+    "webpack": "5.88.2",
     "webpack-dev-server": "4.11.1",
     "webpack-manifest-plugin": "^5.0.0",
     "whatwg-fetch": "3.6.2"
